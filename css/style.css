@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,600&family=Raleway:wght@100&family=Roboto:ital,wght@1,100&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+  font-family: 'Lora', serif;
+  font-size: 30px;
+  margin: 0px;
+}
+
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+  font-weight:  bold;
+}
+
+h1 {
+  font-size: 55px;
+  
+}
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: darkcyan;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+p{
+  font-size: 25px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: light;
+}

@@ -1,0 +1,23 @@
+.button {
+	background-color: #6D71DD;
+	color: whitesmoke;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-weight: bolder;
+	font-family: 'Roboto', sans-serif;
+	font-size: 26px;
+	
+
+
+}
+
+.button-top {
+	background-color: #6D71DD;
+	color: whitesmoke;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-weight: bolder;
+	font-family: 'Roboto', sans-serif;
+	font-size: 26px;
+	margin-top: 200px;
+}
